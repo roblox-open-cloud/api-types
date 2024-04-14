@@ -1,0 +1,19 @@
+{
+  "name": "@roblox-open-cloud/api-types",
+  "version": "0.1.0",
+  "description": "",
+  "author": "roblox-open-cloud",
+  "license": "GPL-3.0",
+  "keywords": [],
+  "exports": {
+    "./v1": {
+      "types": "./v1.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}

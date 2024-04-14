@@ -1,0 +1,8 @@
+node_modules/
+pnpm-lock.yaml
+
+# Build Output
+v*.d.ts
+v*.d.ts.map
+v*.js
+v*.js.map
